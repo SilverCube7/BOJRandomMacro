@@ -1,5 +1,5 @@
 # BOJRandomMacro
-백준 랜덤 게임 매크로 ([AutoHotkey](https://www.autohotkey.com/) 연습)
+백준 랜덤 게임 매크로
 
 ## 핫키
 - Win+S: 매크로 시작

@@ -18,7 +18,7 @@ return
 ; 매크로 중단
 #e::
 SetTimer, Macro, Off
-MsgBox, 매크로 중단!
+MsgBox, 매크로 중단! 총 %cnt%번 제출!
 return
 
 ; 매크로
