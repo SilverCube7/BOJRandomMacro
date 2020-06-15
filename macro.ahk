@@ -30,7 +30,7 @@ Sleep, 500 ; 잠시 대기
 Send, text{Enter} ; text 선택
 MouseClick, left, 480, 730 ; 소스 코드 클릭
 Sleep, 500 ; 잠시 대기
-Send, 7890 ; 코드 입력
+Send, 3427 ; 코드 입력
 MouseClick, left, 143, 950 ; 제출 버튼 클릭
 Sleep, Cal(++cnt) ; 제출 가능할 때까지 대기
 return
